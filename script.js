@@ -1,2 +1,2 @@
-document.getElementById("greeting").textcontent ="Hi There!";
-document.getElementById("h1").textcontent ="The Header";
+document.getElementById("greeting").textContent ="Hi There!";
+document.getElementById("h1").textContent ="The Header";
